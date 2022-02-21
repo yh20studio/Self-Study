@@ -43,7 +43,7 @@ toString()이 아닌 getMessage()로 메세지 값을 꺼내서 사용하는 방
 
 [>> 관련 Commit](https://github.com/woowacourse/java-racingcar/pull/393/commits/7555c038659267c4695afaf57be8609b0afcb940)
 
-## 참고
+### 참고
 
 이펙티브 자바: [아이템 12] toString을 항상 재정의하라
 
